@@ -1,0 +1,519 @@
+body{
+    margin: 0px;
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+    
+}
+
+.header{
+width: 100%;
+padding: 30px 0px;
+float: left;
+position: absolute;
+
+
+}
+
+.div-language{
+    background-color: red;
+}
+.Language{
+      
+    padding: 9px;
+    border-radius: 5px;
+    border: 1px solid white;
+    background-color: transparent;
+    color: white;
+}
+.signin{
+    padding: 10px;
+    width: 86px;
+    background-color: red;
+    color: white;
+    margin-left: 20px;
+    margin-right: 31px;
+    border-radius: 5px;
+    border: #e6020c;
+}
+.logo{
+    width: 10%;
+    float: left;
+
+}
+
+
+.buttons-1{
+    float: right;
+    
+}
+.container{
+    max-width: 96%;
+    margin: auto;
+}
+.banner1{
+    width: 100%;
+    
+
+   
+   
+
+}
+
+.banner{
+    height: 650px;
+    width: 100%;
+    float: left;
+    object-fit: cover;
+    
+}
+.story-card{
+    position: absolute;
+    color: white;
+    margin: 0 auto;
+    padding: 75px 0;
+    text-align: center;
+    width: 100%;
+    top: 20%;
+
+}
+
+.story-card h1{
+    font-size: 3.125rem;
+    width: 43%;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 59px;
+    margin-bottom: 10px;
+}
+
+.story-card h2{
+    font-size: 26px;
+    margin: 0px;
+    font-weight: 400;
+}
+
+.story-card h3{
+    font-weight: 300;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.detail{
+    width: 100%;
+    float: left;
+}
+.mail{
+    border: white solid;
+    width: 42%;
+    height: 52px;
+    background-color: white;
+}
+
+.story-card button{
+    width: 10%;
+    background-color: #e6020c;
+    color: white;
+    height: 61px;
+    border: #e6020c;
+    margin-left: -6px;
+}
+.enjoy{
+    height: 472px;
+width: 100%;
+
+background-color: #000000;
+}
+.enjoy{
+    height: 400px;
+    width: 100%;
+    float: left;
+    background-color: #000000;
+
+}
+.left-section{
+    width: 50%;
+    float: left;
+}
+
+.left-section-para{
+    padding: 63px 116px;
+    color: white;
+}
+.left-section h1{
+font-size: 45px;
+
+}
+.left-section p{
+    
+    font-size: 22px;
+    
+}
+.mid-gap{
+    height: 6px;
+    width: 100%;
+    background-color: rgb(36, 36, 36);
+    float: left;
+
+}
+.right-section{
+    width: 50%;
+    height: 400px;
+    float: right;
+}
+.right-section img{
+    width: 70%;
+    height: 400px;
+    float: left;
+}
+.part-3{
+    
+    width: 100%;
+    float: left;
+    background-color: #000000; 
+}
+.section-3{
+    padding: 50px 0px;
+    width: 100%;
+    float: left;
+    background-color: #000000;
+}
+.left-box{
+     
+     height: auto;
+      float: left;
+      width: 50%;
+      background-color: black;
+
+}
+.phone-image{
+    width: 100%;
+}
+
+
+
+
+.down{
+    width: 100%;
+    height: 452px;
+    background: #000000;
+    position: relative;
+}
+.downsec{
+    width: 100%;
+    height: 100%;
+}
+
+.down .left-down {
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    float: left;
+}
+
+.down .left-down .simage{
+
+    height: 100%;
+    display: block;
+
+}
+.down .left-down .simage img{
+    margin-top: 17px;
+    height: 360px;
+    margin-left: 82px;
+}
+
+.card-down{
+    align-items: center;
+    background: #000;
+    border: 2px solid hsla(0,0%,100%,.25);
+    border-radius: 0.75em;
+    bottom: 8%;
+    box-shadow: 0 0 2em 0 #000;
+    display: flex;
+    left: 23%;
+    margin: 0 auto;
+    margin-bottom: 45px;
+    min-width: 15em;
+    position: absolute;
+    transform: translateX(-50%);
+    width: 330px;
+    height: 100px;
+}
+.card-down .strpic{
+
+    float: left;
+    padding:10px;
+    
+}
+.card-down .strpic img{
+    height: 75px;
+
+}
+.card-down  .strnotes{
+    float: left;
+    padding-left: 20px;
+    align-items: center;
+    justify-content: center;
+}
+.card-down  .strnotes h3{
+    color: #f4f4f4;
+    margin-bottom: 10px;
+    font-weight: 400;
+}
+#download{
+    text-decoration: none;
+    color: rgb(32, 32, 177);
+}
+.downbtn{
+    float: left;
+}
+.downbtn img{
+    height: 65px;
+    margin-left: 20px;
+}
+.right-down{
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    float: right;
+    color: #f4f4f4;
+    font-weight: 400;
+    padding: 75px;
+    padding-left: 10px;
+    
+    
+    
+}
+
+.down{
+    width: 100%;
+   
+    height: 452px;
+    float: left;
+    background: #000000;
+    position: relative;
+}
+.downsec{
+    width: 100%;
+    height: 100%;
+}
+
+.down .left-down {
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    float: left;
+}
+
+.down .left-down .simage{
+
+    height: 100%;
+    display: block;
+
+}
+.down .left-down .simage img{
+    margin-top: 17px;
+    height: 360px;
+    margin-left: 82px;
+}
+
+.card-down{
+    align-items: center;
+    background: #000;
+    border: 2px solid hsla(0,0%,100%,.25);
+    border-radius: 0.75em;
+    bottom: 8%;
+    box-shadow: 0 0 2em 0 #000;
+    display: flex;
+    left: 23%;
+    margin: 0 auto;
+    margin-bottom: 45px;
+    min-width: 15em;
+    position: absolute;
+    transform: translateX(-50%);
+    width: 330px;
+    height: 100px;
+}
+.card-down .strpic{
+
+    float: left;
+    padding:10px;
+    
+}
+.card-down .strpic img{
+    height: 75px;
+
+}
+.card-down  .strnotes{
+    float: left;
+    padding-left: 20px;
+    align-items: center;
+    justify-content: center;
+}
+.card-down  .strnotes h3{
+    color: #f4f4f4;
+    margin-bottom: 10px;
+    font-weight: 400;
+}
+#download{
+    text-decoration: none;
+    color: rgb(32, 32, 177);
+}
+.downbtn{
+    float: left;
+}
+.downbtn img{
+    height: 65px;
+    margin-left: 20px;
+}
+.right-down{
+    width: 43%;
+    justify-content: center;
+    align-items: center;
+    float: right;
+    color: #f4f4f4;
+    font-weight: 400;
+    padding: 75px;
+    padding-left: 10px;  
+}
+
+.mainr h1{
+
+    font-size: 50px;
+    line-height: 60px;
+    margin-bottom: 6px;
+}
+
+.secr h3 {
+    font-weight: 400;
+    font-size: 30px;
+    margin: 0px;
+  
+}
+
+
+
+.qestn{
+    width: 100%;
+    padding: 50px 0px;
+    float: left;
+    background-color: #000;
+}
+
+.container-f{
+    max-width: 56%;
+    margin: auto;
+}
+
+.hed{
+    width: 100%;
+    float: left;
+}
+
+.hed h2{
+    font-size: 50px;
+    padding: 18px 58px;
+    font-weight: 500;
+    color: white;
+}
+
+.qsbox{
+    width: 100%;
+    padding: 16px;
+   margin-bottom: 10px;
+    float: left;
+    background: rgb(36 36 37);
+}
+
+.qsbox h1{
+    margin: 12px 0px;
+    color: white;
+    font-weight: 400;
+}
+
+.brder{
+    padding: 1px;
+    border-bottom:solid 1px rgb(65, 65, 65);
+    height: 70px;
+}
+
+.brder span{
+    position: absolute;
+    right: 22%;
+    color: white;
+    font-size: 39px;
+    margin-top: -57px;
+    
+}
+
+.detail2{
+    width: 100%;
+    float: left;
+}
+
+.detail2 h5{
+    font-size: 20px;
+    font-weight: 300;
+    color: white;
+    margin: 37px 76px 18px;
+}
+.mail2{
+    border: white solid;
+    width: 63%;
+    height: 52px;
+    background-color: white;
+    margin-left: 51px;
+}
+
+.detail2 button{
+    width: 21%;
+    background-color: #e6020c;
+    color: white;
+    height: 60px;
+    border: #e6020c;
+    margin-left: -6px;
+}
+
+.footer{
+    width: 100%;
+    padding: 50px 0px;
+    background-color: rgb(0, 0, 0);
+    float: left;
+}
+
+.container-ft{
+    max-width: 62%;
+    margin: auto;
+}
+
+.footer2{
+    width: 100%;
+    height: 50px;
+    
+}
+
+.foothd{
+width: 100%;
+float: left;
+}
+.foothd p{
+    width: 100%;
+    font-size: 18px;
+    font-weight: 200;
+    float: left;
+    color: #999999;
+}
+
+.foot{
+    width: 25%;
+    height: 174px;
+    float: left;
+}
+.foot a{
+    width: 100%;
+    float: left;
+    font-size: 15px;
+    font-weight: 200;
+    margin-bottom: 18px;
+    color: #999999;
+    text-decoration: none;
+}
